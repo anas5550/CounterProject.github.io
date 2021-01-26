@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: lightgrey;
+}
+#sideHeading{
+  position: absolute;
+  top: 60px;
+  left: 30px;
+  font-family: sans-serif;
+  font-size: 50px;
+  opacity: 0.5;
+}
+
+#box{
+  position: relative;
+  left: 120px;
+  top: 50px;
+  background: linear-gradient(#13547a ,#80d0c7);
+  box-shadow: 1px 1px 20px #80d0c7;
+  height: 150px;
+  width: 80%;
+}
+h2{
+  position: relative;
+  text-align: center;
+  color: white;
+  letter-spacing: 10px;
+  font-family: serif;
+  top: 5px;
+}
+#textBox{
+  position: relative;
+  width: 300px;
+  height: 30px;
+  left: 180px;
+  top: 10px;
+}
+#counterBtn{
+  position: relative;
+  width: 150px;
+  height: 40px;
+  left: 350px;
+  top: 10px;
+  border-radius: 50px;
+  font-size: 1.2rem;
+  box-shadow: 1px 1px 20px white;
+}
+#box2{
+  position: relative;
+  background: linear-gradient(#667eea , #764ba2);
+  height: 150px;
+  width: 50%;
+  left: 300px;
+  top: 100px;
+  box-shadow: 1px 1px 20px #764ba2;
+}
+#coutnerDiv{
+  position: relative;
+  left: 300px;
+  top: 50px;
+  font-size: 3rem;
+  background-color: white;
+  width: 50px;
+  text-align: center;
+  box-shadow: 1px 1px 10px white;
+}
+
+#next{
+  position: relative;
+  left: 300px;
+  top: 100px;
+  width: 50px;
+  text-align: center;
+  font-size: 3rem;
+  background-color: white;
+}
